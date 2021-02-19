@@ -1,5 +1,5 @@
 mod parser;
 
 fn main() {
-    println!("TODO");
+    println!("TODO.");
 }
