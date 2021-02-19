@@ -6,3 +6,4 @@ pub(crate) struct Position {
 }
 
 mod stream;
+mod scanner;
